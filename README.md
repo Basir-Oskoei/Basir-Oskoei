@@ -4,11 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student | Aspiring Software Developer | Skilled in Python, Java, SQL
 -------------------------------------------------------------------------------------
 
-I am a Computer Science student at the University of Essex with a strong foundation in programming (Python, Java, SQL, JavaScript) and a passion for AI, data analysis, and software development. Alongside my degree, I have completed 16 LinkedIn Learning certifications in Business Analysis, Project Management, Financial Modeling, Statistics, and Communication, giving me a unique blend of technical and business expertise.
+Computer Science student at the University of Essex with strong skills in Python, Java, SQL, and JavaScript. Passionate about AI, data analysis, and building intelligent software solutions.
 
-My academic background is supported by hands-on projects, such as the Froilabo Characterization App (available on GitHub), and professional experiences as a Teaching Assistant, Accounting Technician, and Medical Office Assistant, where I developed teamwork, problem-solving, and communication skills.
+Completed 16 LinkedIn Learning certifications in Business Analysis, Project Management, Financial Modeling, Statistics, and Communication, combining technical depth with business insight.
 
-I am currently open to opportunities in Software Development, Data Analysis, Business Analysis, and Technical Consulting, where I can apply both my coding skills and business knowledge to deliver impactful solutions.
+Created projects such as the Froilabo Characterization App for automated data analysis, a Quantitative Trading System for strategy backtesting, and a Credit Risk Predictor using anomaly detection.
+
+Open to opportunities in Software Development, Data Analysis, Business Analysis, and Technical Consulting, with a focus on building data-driven systems that solve real-world problems.
 
 * 🌍  I'm based in United Kingdom
 * 🖥️  See my portfolio at [Linkdin](http://www.linkedin.com/in/basir-oskoei-301046276/)
